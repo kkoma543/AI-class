@@ -1,0 +1,13 @@
+[client]
+toolbarMode = "minimal"
+
+# 라이트/다크 모두 정의해 두면 브라우저(OS)의 색상 설정을 따라간다.
+[theme]
+font = "sans serif"
+baseFontSize = 16
+
+[theme.light]
+primaryColor = "#2E9E5B"
+
+[theme.dark]
+primaryColor = "#3DBE74"
